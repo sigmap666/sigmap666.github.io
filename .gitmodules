@@ -1,8 +1,0 @@
-[submodule "themes/congo"]
-	path = themes/congo
-	url = https://github.com/jpanther/congo.git
-	branch = stable
-[submodule "public"]
-	path = public
-	url = git@github.com:sigmap666/sp.github.io.git
-	branch = main
