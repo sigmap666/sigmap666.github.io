@@ -4,7 +4,7 @@ description: ""
 ---
 
 <img align="left" src="shaul.jpg" width="300" height="300" style="padding-right: 30px;">
-<h3></br>Structure-Function in Bacterial Communities</br></h3>
+<h3></br>Bacterial Structure-Function: from genes to ecosystems</br></h3>
 
 <p>Ecology, Evolution, Genomics, Genetics</br>
 Experiments, Computation, Theory</p>
