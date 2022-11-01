@@ -1,6 +1,6 @@
 ---
-title: ""
-description: ""
+title: "Shaul Pollak"
+description: "Home"
 ---
 
 <img align="left" src="shaul.jpg" width="300" height="300" style="padding-right: 30px;">
