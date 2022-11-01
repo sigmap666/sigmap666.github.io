@@ -12,6 +12,7 @@
 
 [[main]]
   name = "Home"
+  title = "Home"
   pageRef = "/"
   weight = 1
 
