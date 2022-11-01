@@ -4,19 +4,23 @@ date: 2022-11-01
 layout: "simple"
 ---
 
-Microbial communities are critical for human health and agriculture, and control all
-biogeochemical cycles on earth. Understanding these communities is critical for
-both basic science and applications. **I develop novel experimental, computational, and theoretical
-approaches to study microbial communities in the lab and in nature**
+<div style="text-align: center; font-size: 1.5rem; font-weight: 600; padding-left: 0px; padding-right: 0px; max-width: 50rem; margin: 0 auto">
+<p style="color: rgb(37, 99, 235);">I develop & combine novel experimental, computational, and theoretical approaches to study microbial communities in the lab and in nature</p>
+</div>
 
-Cooperation in biology is widespread and fundamental. For example, cooperation is at the heart of the
-evolution of multicellularity, one of the major transitions in evolution. Therefore, understanding the evolution
-and ecology of cooperative behaviors is central to our understanding of nature. Cooperation is also
-widespread in simple organisms like bacteria, which mostly cooperate by producing public-goods -
-molecules that benefit the entire community but are costly to produce. This form of cooperation is especially
-susceptible to parasitism, or cheating, by individuals that benefit from the public-good but do not produce it
-themselves. My scientific journey so far has been focused on exploring the consequences of this conflict
-between cooperation and cheating on bacterial evolution and ecology.
+Microbial communities are critical for human health and agriculture, and control all
+biogeochemical cycles on earth. **A deeper understanding bacterial communities is critical for
+both basic science and many important applications**.
+
+<img align="left" src="qs.svg" width="300" style="padding-right: 20px; padding-top: 0px; margin-top: 0px; margin-bottom: 0px">
+
+My interest bacterial communities started during my Ph.D, where I was studying cell-cell communication systems
+called Quorum-Sensing systems. It turns out that a single population can contain a staggering diversity at the
+quorum sensing loci, resulting in the formation of many "pherotypes" which regulate the same behaviors, but do not
+cross-signal. Naive evolutionary theory cannot explain this diversity, and ecological mechanisms that are external
+to the system must be invoked to accomodate this diversity. By combining genetics and theory while using the model 
+gram-positive bacterium _Bacillus subtilis_, we showed that pherotypes co-exist due to the fact that quorum-sensing
+systems regulate public-goods production, leading to facultative cheating and stable co-existence.
 
 My recent work on marine bacterial communities that degrade chitin saw this interest take many forms,
 where I collaborated heavily across different projects. Chitin is the most abundant polysaccharide in marine environments, and the second most abundant polysaccharide on earth after cellulose. Chitin recycling by
@@ -27,7 +31,8 @@ diffuse in the environment, bacteria that are able to consume these molecules bu
 polymer can be regarded as cheaters.
 
 <img align="right" src="trophic.svg">
-In my main postdoc project (Pollak et. al. 2021) we asked a seemingly simple question – what is the effect
+
+In my main postdoc [project](https://www.science.org/doi/full/10.1126/sciadv.abi4717) we asked a seemingly simple question – what is the effect
 of cheating interactions on community dynamics and chitin turnover? Because most data on bacterial
 communities in the environment is DNA sequence data, we wanted to develop computational methods that
 could answer this question using genomic information. This is non-trivial because of the gap in our
@@ -40,11 +45,3 @@ environmental sensing, but were mostly of unknown function. We developed a machi
 to identify exploiters based on the co-evolving genes, and found that cheating evolved multiple times
 throughout evolution, and that exploiters are as common as degraders during early stages of chitin
 degradation, potentially impacting carbon turnover on a global scale.
-
-This work fundamentally changed our view of community dynamics and function. Collaborating with the lab
-of Prof. Uwe Saur at ETH, we showed using metabolomics that chitin degraders produce characteristic
-degradation and metabolic waste products, thereby controlling the downstream assembly of the community
-(Pontrelli et. al. 2022). Finally, we utilized the tools I developed to characterize the processes contributing
-the variability in community development on individual chitin particles, finding that predation by
-bacteriophages is a major factor contributing to variability (Szabo et. al. PNAS 2022).
-

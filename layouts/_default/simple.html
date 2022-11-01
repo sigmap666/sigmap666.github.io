@@ -5,9 +5,6 @@
         {{ partial "breadcrumbs.html" . }}
       {{ end }}
       {{ if eq .Title "About"}}
-      <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-        {{ .Title | emojify }}
-      </h1>
       {{ else }}
       <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral" align="right">
         {{ .Title | emojify }}
