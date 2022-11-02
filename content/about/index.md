@@ -20,11 +20,17 @@ quorum sensing locus, resulting in the formation of many "pherotypes" which regu
 cross-signal. Naive evolutionary theory cannot explain this diversity, and ecological mechanisms that are external
 to the system must be invoked to accomodate this diversity. By combining genetics and theory while using the model 
 gram-positive bacterium _Bacillus subtilis_, we [showed](https://www.pnas.org/doi/full/10.1073/pnas.1520615113) 
-that pherotypes can co-exist because quorum-sensing systems regulate public-goods production, leading to 
-facultative cheating and stable co-existence.
+that pherotypes can co-exist because because of an intrinsic property of quorum-sensing systems - they regulate the 
+production public-goods. Because public-goods production is beneficial for the whole community, but costly to the individual,
+the minority pherotype effectively cheats the majority. As the minority pherotype's abundance increases
+it activates it's quorum-sensing system more and more and invests in public-goods production accordingly. 
+Therefore, quorum-sensing pherotypes facultatively cheat each other leading to a stable co-existence.
 
-My recent work on marine bacterial communities that degrade chitin saw this interest take many forms,
-where I collaborated heavily across different projects. Chitin is the most abundant polysaccharide in marine environments, and the second most abundant polysaccharide on earth after cellulose. Chitin recycling by
+The interactions I studied during my Ph.D were in the context of extremely simple "communities" that contain
+a single species. The realization that real bacterial communities contain a much higher diversity with a myriad
+of interactions made me seek out a postdoc with Prof. Otto Cordero at MIT to study the ecology and evolution of
+bacterial communities that degrade Chitin. Chitin is the most abundant polysaccharide in marine environments,
+and the second most abundant polysaccharide on earth after cellulose. Chitin recycling by
 bacterial communities accounts for a significant portion of marine net primary production and is a central
 process in the marine carbon cycle. Bacteria must degrade chitin extracellularly before utilizing it for growth
 by secreting specialized enzymes called chitinases. Because the released degradation products are free to
@@ -33,9 +39,9 @@ polymer can be regarded as cheaters.
 
 <img align="right" src="trophic.svg" width="550">
 
-In my main postdoc [project](https://www.science.org/doi/full/10.1126/sciadv.abi4717) we asked a seemingly simple question – what is the effect
-of cheating interactions on community dynamics and chitin turnover? Because most data on bacterial
-communities in the environment is DNA sequence data, we wanted to develop computational methods that
+In my main postdoc [project](https://www.science.org/doi/full/10.1126/sciadv.abi4717) we asked a seemingly simple question – 
+what is the effect of cheating interactions on community dynamics and chitin turnover?
+Because most data on bacterial communities in the environment is DNA sequence data, we wanted to develop computational methods that
 could answer this question using genomic information. This is non-trivial because of the gap in our
 knowledge about the molecular function of many genes found in environmental DNA samples, and because
 we don’t know which cellular processes characterize cheaters. We solved both issues by identifying
@@ -46,3 +52,11 @@ environmental sensing, but were mostly of unknown function. We developed a machi
 to identify exploiters based on the co-evolving genes, and found that cheating evolved multiple times
 throughout evolution, and that exploiters are as common as degraders during early stages of chitin
 degradation, potentially impacting carbon turnover on a global scale.
+
+More recently, I started working with Prof. Sallie (Penny) Chisholm at MIT, studying the ecology and evolution
+of the highly abundant marine cyanobacterium _Prochlorococcus marinus_. Specifically, by inferring the genomic content of
+ancestors of modern isolates, I have been examining the genomic events (gain or loss of genes) that lead to the creation
+of major lineages. I have been correlating these ancient events with environmental data in the hope of revealing the way
+the interplay between ecology and evolution plays out. Additionally, I have been studying the population-genetics of 
+_Synechococcus_ isolates (a sister clade of _Prochlorococcus_) that came from a single population, where the goal is to
+understand the microevolutionary processes that shape the diversity of these highly abundant microbes.
