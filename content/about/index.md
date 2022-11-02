@@ -12,7 +12,7 @@ Microbial communities are critical for human health and agriculture, and control
 biogeochemical cycles on earth. **A deeper understanding bacterial communities is critical for
 both basic science and many important applications**.
 
-<img align="left" src="qs.svg" width="450" style="padding-right: 20px; padding-top: 10px; margin-top: 0px; margin-bottom: 5px">
+<img align="left" src="qs.svg" width="400" style="padding-right: 20px; padding-top: 10px; margin-top: 0px; margin-bottom: 5px">
 
 My interest bacterial communities started during my Ph.D, where I was studying cell-cell communication systems called 
 Quorum-Sensing systems. It turns out that a single population can contain a staggering diversity at the
@@ -37,7 +37,7 @@ by secreting specialized enzymes called chitinases. Because the released degrada
 diffuse in the environment, bacteria that are able to consume these molecules but do not degrade the
 polymer can be regarded as cheaters.
 
-<img align="right" src="trophic.svg" width="550">
+<img align="right" src="trophic.svg" width="500">
 
 In my main postdoc [project](https://www.science.org/doi/full/10.1126/sciadv.abi4717) we asked a seemingly simple question – 
 what is the effect of cheating interactions on community dynamics and chitin turnover?
