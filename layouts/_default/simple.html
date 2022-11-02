@@ -1,16 +1,16 @@
 {{ define "main" }}
   <article class="max-w-full">
-    <header>
-      {{ if .Params.showBreadcrumbs | default (.Site.Params.article.showBreadcrumbs | default false) }}
-        {{ partial "breadcrumbs.html" . }}
-      {{ end }}
-      {{ if eq .Title "About"}}
-      {{ else }}
-      <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral" align="right">
-        {{ .Title | emojify }}
-      </h1>      
-      {{ end }}
-    </header>
+    {{ if eq .Title "About"}}
+    {{ else }}
+      <header>
+        {{ if .Params.showBreadcrumbs | default (.Site.Params.article.showBreadcrumbs | default false) }}
+          {{ partial "breadcrumbs.html" . }}
+        {{ end }}
+        <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral" align="right">
+          {{ .Title | emojify }}
+        </h1>      
+      </header>
+    {{ end }}
     <section class="max-w-full mt-6 prose dark:prose-invert">
       {{ .Content | emojify }}
     </section>

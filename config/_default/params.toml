@@ -19,7 +19,7 @@ enableCodeCopy = false
   layout = "basic" # valid options: basic, hamburger, custom
 
 [footer]
-  showCopyright = false
+  showCopyright = true
   showThemeAttribution = false
   showAppearanceSwitcher = false
   showScrollToTop = true
