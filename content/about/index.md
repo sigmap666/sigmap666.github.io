@@ -12,15 +12,16 @@ Microbial communities are critical for human health and agriculture, and control
 biogeochemical cycles on earth. **A deeper understanding bacterial communities is critical for
 both basic science and many important applications**.
 
-<img align="left" src="qs.svg" width="300" style="padding-right: 20px; padding-top: 0px; margin-top: 0px; margin-bottom: 0px">
+<img align="left" src="qs.svg" width="300" style="padding-right: 20px; padding-top: 10px; margin-top: 0px; margin-bottom: 5px">
 
-My interest bacterial communities started during my Ph.D, where I was studying cell-cell communication systems
-called Quorum-Sensing systems. It turns out that a single population can contain a staggering diversity at the
-quorum sensing loci, resulting in the formation of many "pherotypes" which regulate the same behaviors, but do not
+My interest bacterial communities started during my Ph.D, where I was studying cell-cell communication systems called 
+Quorum-Sensing systems. It turns out that a single population can contain a staggering diversity at the
+quorum sensing locus, resulting in the formation of many "pherotypes" which regulate the same behaviors, but do not
 cross-signal. Naive evolutionary theory cannot explain this diversity, and ecological mechanisms that are external
 to the system must be invoked to accomodate this diversity. By combining genetics and theory while using the model 
-gram-positive bacterium _Bacillus subtilis_, we showed that pherotypes co-exist due to the fact that quorum-sensing
-systems regulate public-goods production, leading to facultative cheating and stable co-existence.
+gram-positive bacterium _Bacillus subtilis_, we [showed](https://www.pnas.org/doi/full/10.1073/pnas.1520615113) 
+that pherotypes can co-exist because quorum-sensing systems regulate public-goods production, leading to 
+facultative cheating and stable co-existence.
 
 My recent work on marine bacterial communities that degrade chitin saw this interest take many forms,
 where I collaborated heavily across different projects. Chitin is the most abundant polysaccharide in marine environments, and the second most abundant polysaccharide on earth after cellulose. Chitin recycling by
