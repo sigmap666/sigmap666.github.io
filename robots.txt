@@ -1,2 +1,14 @@
 User-agent: *
+
 Sitemap: https://shaul-pollak.github.io/sitemap.xml
+
+Sitemap: https://shaul-pollak.github.io/sitemap.xml
+
+Sitemap: https://shaul-pollak.github.io/sitemap.xml
+
+Sitemap: https://shaul-pollak.github.io/sitemap.xml
+
+Sitemap: https://shaul-pollak.github.io/sitemap.xml
+
+Sitemap: https://shaul-pollak.github.io/sitemap.xml
+
