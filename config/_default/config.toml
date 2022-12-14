@@ -2,9 +2,10 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
-baseURL = "https://sp.github.io"
+baseURL = "https://shaul-pollak.github.io"
 theme = "congo"
 defaultContentLanguage = "en"
+googleAnalytics = "G-X77QK0ZF3Q"
 
 enableRobotsTXT = true
 paginate = 10
