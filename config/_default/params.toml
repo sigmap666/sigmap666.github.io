@@ -19,7 +19,7 @@ robots = "all"
   layout = "basic" # valid options: basic, hamburger, custom
 
 [footer]
-  showCopyright = true
+  showCopyright = false
   showThemeAttribution = false
   showAppearanceSwitcher = false
   showScrollToTop = true
