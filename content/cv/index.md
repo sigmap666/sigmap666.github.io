@@ -9,15 +9,16 @@ draft: false
 ### Employment
 |||
 |:---|---:|
-|**Postdoctoral Scholar**</br>Advisor: Prof. Otto X. Cordero|**Massachusetts Institute of Technology**</br>2018-2022|
-|**Postdoctoral Scholar**</br>Advisor: Prof. Sallie (Penny) Chisholm|**Massachusetts Institute of Technology**</br>2022-2023|
+|**Group Leader**|**University of Vienna**</br>Division of Microbial Ecology (DOME)<br>Centre for Microbiology and Environmental Systems Science (CMESS)</br>2023-now|
+|**Postdoctoral Scholar**</br>Advisor: Prof. Sallie (Penny) Chisholm|**Massachusetts Institute of Technology**</br>Department of Civil and Environmental Engineering</br>2022-2023|
+|**Postdoctoral Scholar**</br>Advisor: Prof. Otto X. Cordero|**Massachusetts Institute of Technology**</br>Department of Civil and Environmental Engineering</br>2018-2022|
 
 ### Education
 |||
 |:---|---:|
-|**B.Sc Life Science**</br>Graduated magna cum laude|**Tel-Aviv University**</br>2007-2010|
-|**M.Sc. Genetics**</br>Graduated summa cum laude</br>Advisor: Prof. Avigdor Eldar</br>Thesis: "Social Dynamics Drive the Evolutionary</br>Diversification of Bacterial Quorum Sensing Systems"|**Tel-Aviv University**</br>2011-2013|
 |**Ph.D. Evolutionary Systems Biology**</br>Advisor: Prof Avigdor Eldar</br>Thesis: "Evolutionary dynamics of social traits and</br>genome evolution in Bacillus Subtilis"|**Tel-Aviv University**</br>2014-2018|
+|**M.Sc. Genetics**</br>Graduated summa cum laude</br>Advisor: Prof. Avigdor Eldar</br>Thesis: "Social Dynamics Drive the Evolutionary</br>Diversification of Bacterial Quorum Sensing Systems"|**Tel-Aviv University**</br>2011-2013|
+|**B.Sc Life Science**</br>Graduated magna cum laude|**Tel-Aviv University**</br>2007-2010|
 
 ### Awards and Honors
 |||
