@@ -7,7 +7,7 @@ layout: "simple"
 <img align="right" src="litter_cycle.svg" width="450" style="padding-right: 20px; padding-top: 10px; margin-top: 0px; margin-bottom: 5px">
 
 <div style="text-align: left; font-size: 1.5rem; font-weight: 600; padding-left: 0px; padding-right: 0px; max-width: 50rem; margin: 0; color: rgb(37, 99, 235);">
-We study how the function of microbial communities emerges from the complexity of interactions they contain.
+We study how the function and genetic variation of microbial communities emerge from the complexity of interactions they contain.
 </div>
 
 Microbial communities drive biogeochemical cycling, and are critical for human health and agriculture.
