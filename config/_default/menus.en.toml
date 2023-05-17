@@ -32,7 +32,7 @@
   weight = 4
 
 [[main]]
-  name = "CV"
+  name = "Shaul's CV"
   pageRef = "/cv"
   weight = 5
 

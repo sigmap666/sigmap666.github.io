@@ -2091,6 +2091,11 @@ body:has(#menu-controller:checked) {
   height: 9rem;
 }
 
+
+.h-72 {
+  height: 18rem;
+}
+
 .max-h-\[10rem\] {
   max-height: 10rem;
 }
