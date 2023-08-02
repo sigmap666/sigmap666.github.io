@@ -16,7 +16,7 @@ layout: "simple"
   <figure class="ml-3 h-8">
     <img src="lior.jpg" alt="Lior" class="rounded-lg h-72">
     <figcaption class="text-left">
-      <b>Lior Schachar</b><br>
+      <b>Lior Shachar</b><br>
       Ph.D. Student
     </figcaption>
   </figure>
