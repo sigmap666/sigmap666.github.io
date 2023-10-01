@@ -5,7 +5,7 @@ layout: "simple"
 draft: false
 ---
 
-Bareia T., **Pollak S.**, Guler P., Puyesky S., Eldar A.
+Bareia T., **Pollak S.**, Guler P., Puyesky S., Eldar A.\
 [Major distinctions between the two oligopeptide permease systems of Bacillus subtilis with respect to signaling, development and evolutionary divergence](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001382).\
 <u>Microbiology</u>. 2023 Sep.
 
