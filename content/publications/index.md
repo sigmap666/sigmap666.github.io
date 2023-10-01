@@ -5,9 +5,17 @@ layout: "simple"
 draft: false
 ---
 
+Bareia T., **Pollak S.**, Guler P., Puyesky S., Eldar A.
+[Major distinctions between the two oligopeptide permease systems of Bacillus subtilis with respect to signaling, development and evolutionary divergence](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001382).\
+<u>Microbiology</u>. 2023 Sep.
+
 Gralka M, **Pollak, S**, Cordero OX.\
-[Fundamental metabolic strategies of heterotrophic bacteria](https://doi.org/10.1101/2022.08.04.502823).\
-<u>BioRxiv</u>. 2022 Aug.
+[Genome content predicts the carbon catabolic preferences of heterotrophic bacteria](https://www.nature.com/articles/s41564-023-01458-z).\
+<u>Nature Microbiology</u>. 2023 Aug.
+
+**Pollak, S**.\
+[Plant DNA in feces as a nutritional crystal ball](https://www.pnas.org/doi/abs/10.1073/pnas.2309172120).\
+<u>PNAS</u>. 2023 Jul. 
 
 Szabo RE, Pontrelli S, Grilli J, Schwartzman JA, **Pollak, S**, Sauer U, Cordero OX.\
 [Historical contingencies and phage induction diversify bacterioplankton communities at the microscale](https://www.pnas.org/doi/full/10.1073/pnas.2117748119).\
