@@ -4,8 +4,8 @@ date: 2023-16-05
 layout: "simple"
 ---
 
-<div class="flex">
-  <figure class="mr-3">
+<div class="flex flex-wrap space-x-4">
+  <figure>
     <img src="shaul.jpg" alt="Shaul Pollak" class="rounded-lg h-72">
     <figcaption>
       <b>Shaul Pollak</b><br>
@@ -13,15 +13,15 @@ layout: "simple"
       <a href="/cv">CV</a>
     </figcaption>
   </figure>
-  <figure class="ml-3 h-8">
+  <figure>
     <img src="lior.jpg" alt="Lior" class="rounded-lg h-72">
     <figcaption class="text-left">
       <b>Lior Shachar</b><br>
       Ph.D. Student
     </figcaption>
   </figure>
-  <figure class="ml-3 h-8">
-    <img src="devil.png" alt="You" class="rounded-lg h-72">
+  <figure>
+    <img src="skeleton.jpg" alt="You" class="rounded-lg h-72">
     <figcaption class="text-left">
       <b>You!</b><br>
       Join us!
