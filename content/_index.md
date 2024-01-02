@@ -26,3 +26,11 @@ description: "Home"
       <a class="px-1 hover:text-primary-700 dark:hover:text-primary-400" target="_blank" rel="me noopener noreferrer" aria-label="github" href="https://github.com/shaul-pollak">{{< icon "github" >}}</a>
       <a class="px-1 hover:text-primary-700 dark:hover:text-primary-400" target="_blank" rel="me noopener noreferrer" aria-label="twitter" href="https://twitter.com/ShaulPollak">{{< icon "twitter" >}}</a>
 </div> 
+<br>
+
+<p class="content-end" style="line-height: 1">
+    Proudly fundend by:  
+    <a href="https://avinastiftung.ch/">
+        <img src="avina-logo-black.svg" width="300" alt="AVINA Stiftung" style="margin-top: 20px">
+    </a>
+</p>

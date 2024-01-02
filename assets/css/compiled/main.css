@@ -2058,6 +2058,10 @@ body:has(#menu-controller:checked) {
   flex-wrap: wrap;
 }
 
+.content-end {
+  align-content: flex-end;
+}
+
 .items-start {
   align-items: flex-start;
 }
