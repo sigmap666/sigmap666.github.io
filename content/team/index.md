@@ -4,27 +4,41 @@ date: 2023-16-05
 layout: "simple"
 ---
 
-<div class="flex flex-wrap space-x-4">
+<div class="flex space-x-4 flex-wrap">
   <figure>
-    <img src="shaul.jpg" alt="Shaul Pollak" class="rounded-lg h-72">
+    <img src="shaul.jpg" alt="Shaul Pollak" class="rounded-lg h-72 aspect-auto">
     <figcaption>
       <b>Shaul Pollak</b><br>
       Principal Investigator<br>
       <a href="/cv">CV</a>
     </figcaption>
   </figure>
+
   <figure>
-    <img src="lior.jpg" alt="Lior" class="rounded-lg h-72">
+    <img src="lior.jpg" alt="Lior Shachar" class="rounded-lg h-72 aspect-auto">
     <figcaption class="text-left">
       <b>Lior Shachar</b><br>
-      Ph.D. Student
+      PhD Student
     </figcaption>
   </figure>
+
   <figure>
-    <img src="skeleton.jpg" alt="You" class="rounded-lg h-72">
+    <img src="joana.jpeg" alt="Joana Valèrio" class="rounded-lg h-72 aspect-auto">
+    <figcaption class="text-left">
+      <b>Joana Valèrio</b><br>
+      PhD Student
+    </figcaption>
+  </figure>
+</div>
+
+
+<div class="flex space-x-4 flex-wrap">
+  <figure>
+    <img src="devil.png" alt="You" class="rounded-lg h-72 aspect-auto">
     <figcaption class="text-left">
       <b>You!</b><br>
       Join us!
     </figcaption>
   </figure>
+
 </div>

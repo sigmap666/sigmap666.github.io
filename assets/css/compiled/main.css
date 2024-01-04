@@ -1907,6 +1907,10 @@ body:has(#menu-controller:checked) {
   display: none;
 }
 
+.aspect-auto {
+  aspect-ratio: auto;
+}
+
 .h-12 {
   height: 3rem;
 }
