@@ -25,7 +25,7 @@ layout: "simple"
   <figure>
     <img src="joana.jpeg" alt="Joana Valério" class="rounded-lg h-72 aspect-auto">
     <figcaption class="text-left">
-      <b>Joana Valèrio</b><br>
+      <b>Joana Valério</b><br>
       PhD Student
     </figcaption>
   </figure>
