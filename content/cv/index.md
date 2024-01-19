@@ -48,7 +48,3 @@ draft: false
 |3.2013|Poster at the One2Many systems biology symposium, Israel|
 |2.2013|Poster at the First Annual Winter qBio Meeting, Hawaii, USA|
 |7.2010|Annual Kupcinet-Getz International Science School for outstanding undergraduate students at the Weizmann Institute, Israel|
-
-### Teaching
-**Microbial Genetics and Evolution. MIT** (2018, 2019, 2020,2021)\
-Guest lecturer.
