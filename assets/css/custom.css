@@ -1,5 +1,5 @@
 html {
   font-size: 14pt;
-  font-family: PolySans;
+  font-family: PolySans, Helvetica, Roboto, Arial, sans-serif;
   src: url('/static/fonts/PolySans-Neutral.woff2') format('woff2');
 }
