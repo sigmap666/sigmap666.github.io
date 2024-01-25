@@ -1,6 +1,6 @@
 ---
-title: About
-date: 2023-16-05
+title: 
+description: "Shaul Pollak Lab University of Vienna CMESS DOME about research project"
 layout: "simple"
 ---
 

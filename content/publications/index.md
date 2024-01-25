@@ -1,8 +1,7 @@
 ---
-title: Publications
-date: 2022-10-29
+title: 
+description: "Shaul Pollak Lab CMESS DOME University of Vienna Publications"
 layout: "simple"
-draft: false
 ---
 
 Bareia T., **Pollak S.**, Guler P., Puyesky S., Eldar A.\

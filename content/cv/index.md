@@ -1,9 +1,7 @@
 ---
 title: "Shaul Pollak - Curriculum Vitae"
-date: 2022-10-29
-showTableOfContents: true
+description: "Shaul Pollak Lab CMESS DOME University of Vienna CV Curriculum Vitae"
 layout: "simple"
-draft: false
 ---
 
 ### Employment
