@@ -8,7 +8,7 @@ theme = "congo"
 baseURL = ""
 defaultContentLanguage = "en"
 
-enableRobotsTXT = true
+enableRobotsTXT = false
 paginate = 10
 summaryLength = 0
 
