@@ -1,5 +1,5 @@
 ---
-title: "Shaul Pollak Lab University Of Vienna"
+title: ""
 description: "Shaul Pollak Lab CMESS DOME University of Vienna Homepage"
 ---
 
