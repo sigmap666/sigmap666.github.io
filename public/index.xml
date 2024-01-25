@@ -5,42 +5,42 @@
     <link>/</link>
     <description>Recent content on Environmental Systems Microbiology @ Univie</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Publications</title>
-      <link>/publications/</link>
-      <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/publications/</guid>
-      <description>Gralka M, Pollak, S, Cordero OX.</description>
-    </item>
-    
-    <item>
-      <title>Shaul Pollak - Curriculum Vitae</title>
-      <link>/cv/</link>
-      <pubDate>Sat, 29 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/cv/</guid>
-      <description>Employment # Group Leader University of ViennaDivision of Microbial Ecology (DOME)</description>
-    </item>
-    
-    <item>
-      <title>About</title>
+      <title></title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/about/</guid>
       <description>We study how the function and genetic variation of microbial communities emerge from the complexity of interactions they contain.</description>
     </item>
-    
     <item>
-      <title>Team</title>
+      <title></title>
+      <link>/positions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/positions/</guid>
+      <description>It appears you don&#39;t have a PDF plugin for this browser.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/publications/</guid>
+      <description>Bareia T.</description>
+    </item>
+    <item>
+      <title></title>
       <link>/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/team/</guid>
       <description>Shaul Pollak</description>
     </item>
-    
+    <item>
+      <title>Shaul Pollak - Curriculum Vitae</title>
+      <link>/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/cv/</guid>
+      <description>Employment # Group Leader University of ViennaDivision of Microbial Ecology (DOME)</description>
+    </item>
   </channel>
 </rss>

@@ -4,20 +4,6 @@
   
     
       <url>
-            <loc>/publications/</loc>
-            <lastmod>2022-10-29T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>/cv/</loc>
-            <lastmod>2022-10-29T00:00:00+00:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
             <loc>/</loc>
           </url>
     
@@ -29,13 +15,31 @@
     
   
     
+      <url>
+            <loc>/positions/</loc>
+          </url>
+    
   
+    
+      <url>
+            <loc>/publications/</loc>
+          </url>
     
   
     
       <url>
             <loc>/team/</loc>
           </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>/cv/</loc>
+          </url>
+    
+  
     
   
 </urlset>
