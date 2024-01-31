@@ -71,7 +71,7 @@ fingerprintAlgorithm = "sha256"
   # domain = "llama.yoursite.com"
 
 [verification]
-  google = "2P33wvsvNTeuaricvESlGLKS5X68CLAv5aGAiSmAIIQ
+  google = "2P33wvsvNTeuaricvESlGLKS5X68CLAv5aGAiSmAIIQ"
   # bing = ""
   # pinterest = ""
   # yandex = ""
