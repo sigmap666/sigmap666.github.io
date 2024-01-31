@@ -1,6 +1,6 @@
 ---
 title: ""
-description: "Shaul Pollak Lab CMESS DOME University of Vienna Homepage"
+description: "Shaul Pollak Lab at CMESS DOME University of Vienna Homepage"
 ---
 
 <img align="left" src="logo_blue.svg" width="450" height="450" style="padding-right: 30px; margin-top: 0px">
