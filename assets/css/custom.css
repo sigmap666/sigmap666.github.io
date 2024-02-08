@@ -1,6 +1,14 @@
 @font-face {
   font-family: "PolySans";
+  font-weight: normal;
   src: url('/fonts/PolySans-Neutral.woff2') format('woff2');
+}
+
+
+@font-face {
+  font-family: "PolySans";
+  font-weight: bold;
+  src: url('/fonts/PolySans-Bulky.woff2') format('woff2');
 }
 
 html {
