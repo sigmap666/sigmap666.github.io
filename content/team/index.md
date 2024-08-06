@@ -14,6 +14,15 @@ layout: "simple"
     </figcaption>
   </figure>
 
+
+  <figure>
+    <img src="qi.jpg" alt="Qi Qi" class="rounded-lg h-72 aspect-auto">
+    <figcaption class="text-left">
+      <b>Qi Qi</b><br>
+      Postdoc
+    </figcaption>
+  </figure>
+
   <figure>
     <img src="lior.jpg" alt="Lior Shachar" class="rounded-lg h-72 aspect-auto">
     <figcaption class="text-left">
