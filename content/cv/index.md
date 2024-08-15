@@ -7,7 +7,8 @@ layout: "simple"
 ### Employment
 |||
 |:---|---:|
-|**Group Leader**|**University of Vienna**</br>Division of Microbial Ecology (DOME)<br>Centre for Microbiology and Environmental Systems Science (CMESS)</br>2023-now|
+|**Assistant Professor**|**University of Vienna**</br>Division of Microbial Ecology (DOME)<br>Centre for Microbiology and Environmental Systems Science (CMESS)</br>2024-?|
+|**Group Leader**|**University of Vienna**</br>Division of Microbial Ecology (DOME)<br>Centre for Microbiology and Environmental Systems Science (CMESS)</br>2023-2024|
 |**Postdoctoral Scholar**</br>Advisor: Prof. Sallie (Penny) Chisholm|**Massachusetts Institute of Technology**</br>Department of Civil and Environmental Engineering</br>2022-2023|
 |**Postdoctoral Scholar**</br>Advisor: Prof. Otto X. Cordero|**Massachusetts Institute of Technology**</br>Department of Civil and Environmental Engineering</br>2018-2022|
 
