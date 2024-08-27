@@ -46,10 +46,10 @@ layout: "simple"
       PhD Student
     </figcaption>
   </figure>
-</div>
+<!-- </div> -->
 
 
-<div class="flex space-x-4 flex-wrap">
+<!-- <div class="flex space-x-4 flex-wrap"> -->
   <figure>
     <img src="devil.png" alt="You" class="rounded-lg h-72 aspect-auto">
     <figcaption class="text-left">
