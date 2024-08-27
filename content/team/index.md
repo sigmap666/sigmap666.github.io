@@ -38,6 +38,14 @@ layout: "simple"
       PhD Student
     </figcaption>
   </figure>
+
+  <figure>
+    <img src="jyothsna.jpg" alt="Jyothsna P V" class="rounded-lg h-72 aspect-auto">
+    <figcaption class="text-left">
+      <b>Joana Valério</b><br>
+      PhD Student
+    </figcaption>
+  </figure>
 </div>
 
 
@@ -49,5 +57,4 @@ layout: "simple"
       Join us!
     </figcaption>
   </figure>
-
 </div>
