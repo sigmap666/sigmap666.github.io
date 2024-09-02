@@ -42,7 +42,7 @@ layout: "simple"
   <figure>
     <img src="jyothsna.jpg" alt="Jyothsna P V" class="rounded-lg h-72 aspect-auto">
     <figcaption class="text-left">
-      <b>Joana Valério</b><br>
+      <b>Jyothsna P V</b><br>
       PhD Student
     </figcaption>
   </figure>
