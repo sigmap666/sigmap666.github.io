@@ -13,8 +13,10 @@ layout: "simple"
       <a href="/cv">CV</a>
     </figcaption>
   </figure>
+</div>
 
 
+<div class="flex space-x-4 flex-wrap">
   <figure>
     <img src="qi.jpg" alt="Qi Qi" class="rounded-lg h-72 aspect-auto">
     <figcaption class="text-left">
@@ -22,7 +24,10 @@ layout: "simple"
       Postdoc
     </figcaption>
   </figure>
+</div>
 
+
+<div class="flex space-x-4 flex-wrap">
   <figure>
     <img src="lior.jpg" alt="Lior Shachar" class="rounded-lg h-72 aspect-auto">
     <figcaption class="text-left">
@@ -47,7 +52,6 @@ layout: "simple"
     </figcaption>
   </figure>
 
-
   <figure>
     <img src="rahul.jpeg" alt="Rahul Mallikarjun" class="rounded-lg h-72 aspect-auto">
     <figcaption class="text-left">
@@ -57,16 +61,16 @@ layout: "simple"
   </figure>
 
   <figure>
-    <img src="jyothsna.jpg" alt="Thomas Gaehtgens" class="rounded-lg h-72 aspect-auto">
+    <img src="./thomas.jpeg" alt="Thomas Gaehtgens" class="rounded-lg h-72 aspect-auto">
     <figcaption class="text-left">
       <b>Thomas Gaehtgens</b><br>
       PhD Student
     </figcaption>
   </figure>
-<!-- </div> -->
+</div>
 
 
-<!-- <div class="flex space-x-4 flex-wrap"> -->
+<div class="flex space-x-4 flex-wrap">
   <figure>
     <img src="devil.png" alt="You" class="rounded-lg h-72 aspect-auto">
     <figcaption class="text-left">

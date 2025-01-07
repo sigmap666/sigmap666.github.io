@@ -16,12 +16,6 @@
   
     
       <url>
-            <loc>//localhost:1313/positions/</loc>
-          </url>
-    
-  
-    
-      <url>
             <loc>//localhost:1313/publications/</loc>
           </url>
     
