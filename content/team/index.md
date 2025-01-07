@@ -46,6 +46,23 @@ layout: "simple"
       PhD Student
     </figcaption>
   </figure>
+
+
+  <figure>
+    <img src="rahul.jpeg" alt="Rahul Mallikarjun" class="rounded-lg h-72 aspect-auto">
+    <figcaption class="text-left">
+      <b>Rahul Mallikarjun</b><br>
+      PhD Student
+    </figcaption>
+  </figure>
+
+  <figure>
+    <img src="jyothsna.jpg" alt="Thomas Gaehtgens" class="rounded-lg h-72 aspect-auto">
+    <figcaption class="text-left">
+      <b>Thomas Gaehtgens</b><br>
+      PhD Student
+    </figcaption>
+  </figure>
 <!-- </div> -->
 
 
