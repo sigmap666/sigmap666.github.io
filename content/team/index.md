@@ -72,6 +72,17 @@ layout: "simple"
 
 <div class="flex space-x-4 flex-wrap">
   <figure>
+    <img src="gerhard.jpeg" alt="Gerhard Gruber" class="rounded-lg h-72 aspect-auto">
+    <figcaption class="text-left">
+      <b>Gerhard Gruber</b><br>
+      Master Student
+    </figcaption>
+  </figure>
+</div>
+
+
+<div class="flex space-x-4 flex-wrap">
+  <figure>
     <img src="devil.png" alt="You" class="rounded-lg h-72 aspect-auto">
     <figcaption class="text-left">
       <b>You!</b><br>
